@@ -6,6 +6,7 @@ public class class2 {
 		System.out.println("hai");
 System.out.println("hello");
 System.out.println("git");
+System.out.println("hi");
 	}
 
 }
